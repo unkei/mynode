@@ -1,6 +1,6 @@
 # nodejs trial
 
-# How to set up
+## How to set up
 
 ```
 git init
@@ -22,6 +22,13 @@ npm start
 npm run build
 git add .
 git commit -m 'added backpack and babel.'
+```
+
+```
+npm install express --save
+npm install socket.io --save
+git add .
+git commit -m 'added express and socket.io.'
 ```
 
 ## How to run 
